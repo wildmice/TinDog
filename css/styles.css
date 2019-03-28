@@ -7,7 +7,12 @@ h1{
   font-size: 3.7rem;
   line-height: 1.5;
   color: #fff;
+}
 
+h2{
+  font-family: "Montserrat-Black"
+  font-size: 3rem;
+  line-height: 1.5rem;
 }
 
 h3{
@@ -83,6 +88,20 @@ padding: 5%;
    color: #FF4C68;
 }
 
+.testimonial-image{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.press-logo{
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+.carousel-item{
+  padding: 7% 15%;
+}
 #title{
   background-color: #FF4C68;
 }
@@ -90,4 +109,19 @@ padding: 5%;
 #features{
  padding: 7% 15%
 
+}
+
+/* Testimonial Section */
+
+#testimonials{
+ padding: 7% 15%;
+ text-align: center;
+ background-color: #ef8172;
+ color: #fff;
+}
+
+#press{
+  background-color: #ef8172;
+  text-align: center;
+  padding: 3%;
 }
