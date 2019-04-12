@@ -125,3 +125,14 @@ padding: 5%;
   text-align: center;
   padding: 3%;
 }
+
+/* Pricing Section */
+
+#pricing{
+  padding 100px;
+  text-align:  center;
+}
+
+.pricing-column{
+  padding: 3%  2%;
+}
